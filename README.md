@@ -5,7 +5,7 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
 
 # About Me
-![](https://github-stats-alpha.vercel.app/api?username=Rivalakmalll&cc=000&tc=fff&ic=fff&bc=000)
+![](https://github-stats-alpha.vercel.app/api?username=Rvalakmal&cc=000&tc=fff&ic=fff&bc=000)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rivalakmalll&theme=discord&no-frame=false&no-bg=true&margin-w=4)
