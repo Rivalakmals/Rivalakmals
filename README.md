@@ -8,7 +8,7 @@
 ![](https://github-stats-alpha.vercel.app/api?username=Rvalakmal&cc=000&tc=fff&ic=fff&bc=000)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rivalakmalll&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rvalakmal&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ## My Contacts
 ![](https://discord.c99.nl/widget/theme-1/391800933480398850.png)
