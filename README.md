@@ -14,4 +14,4 @@
 **Social Medias:**
 
 - <img height="25" src="https://skillicons.dev/icons?i=linkedin&theme=dark"> [LinkedIn](https://id.linkedin.com/in/rivalakmal)</img>
-- <img height="25" src="https://skillicons.dev/icons?i=instagram&theme=dark"> [Instagram](https://id.linkedin.com/in/rival_akmal7)</img>
+- <img height="25" src="https://skillicons.dev/icons?i=instagram&theme=dark"> [Instagram](https://www.instagram.com/rival_akmal7/)</img>
