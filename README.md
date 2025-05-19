@@ -4,11 +4,11 @@
 
 **My Currect Tech Stacks:**
 
-<code><img height="95" src="https://skillicons.dev/icons?i=html,htmx,pug,css,scss,sass,nodejs,js,ts,vue,nuxt,svelte,angular,vite,vitest,tailwind,bootstrap,windicss,materialui,vuetify,pinia,redux,cypress,nest,mysql,prisma,yarn,npm,pnpm,jsx,jenskin&theme=dark" /></code>
+<code><img height="95" src="https://skillicons.dev/icons?i=html,htmx,pug,css,scss,sass,nodejs,js,ts,vue,nuxt,svelte,angular,vite,vitest,tailwind,bootstrap,windicss,materialui,vuetify,pinia,redux,cypress,nest,mysql,prisma,yarn,npm,pnpm&theme=dark" /></code>
 
 **Tools:**
 
-<code><img height="60" src="https://skillicons.dev/icons?i=vscode,bitbucket,codepen,discord,docker,figma,git,github,postman,stackover,flow,vscode,sublime&theme=dark" /></code>
+<code><img height="60" src="https://skillicons.dev/icons?i=vscode,bitbucket,codepen,discord,docker,figma,git,github,postman,stackover,flow,sublime&theme=dark" /></code>
 
 ---
 **Social Medias:**
