@@ -1,36 +1,17 @@
+### Hi there 👋
+---
+<strong>I'm  Rival Akmal</strong> - Fullstack Wrbsite engineers, Builiding beautiful websites with code and creativity.💥
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**My Currect Tech Stacks:**
 
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+<code><img height="95" src="https://skillicons.dev/icons?i=html,htmx,pug,css,scss,sass,nodejs,js,ts,vue,nuxt,svelte,angular,vite,vitest,tailwind,bootstrap,windicss,materialui,vuetify,pinia,redux,cypress,nest,mysql,prisma,yarn,npm,pnpm,jsx,jenskin&theme=dark" /></code>
 
-# About Me
-![](https://github-stats-alpha.vercel.app/api?username=Rvalakmal&cc=000&tc=fff&ic=fff&bc=000)
+**Tools:**
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rvalakmal&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<code><img height="60" src="https://skillicons.dev/icons?i=vscode,bitbucket,codepen,discord,docker,figma,git,github,postman,stackover,flow,vscode,sublime&theme=dark" /></code>
 
-## My Contacts
-![](https://discord.c99.nl/widget/theme-1/391800933480398850.png)
+---
+**Social Medias:**
 
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Happy-Birthday-Card-main)](https://github.com/Rivalakmalll/Happy-Birthday-Card-main)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Music-Player)](https://github.com/Rivalakmalll/Music-Player)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rivalakmalll&repo=Vue-Websites)](https://github.com/Rivalakmalll/Vue-Websites)
-
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rivalakmal10&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rivalakmal10&redirect=true)
-
-
-
-
-
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- <img height="25" src="https://skillicons.dev/icons?i=linkedin&theme=dark"> [LinkedIn](https://id.linkedin.com/in/rivalakmal)</img>
+- <img height="25" src="https://skillicons.dev/icons?i=instagram&theme=dark"> [Instagram](https://id.linkedin.com/in/rival_akmal7)</img>
