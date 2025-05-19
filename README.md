@@ -8,7 +8,7 @@
 
 **Tools:**
 
-<code><img height="60" src="https://skillicons.dev/icons?i=vscode,bitbucket,codepen,discord,docker,figma,git,github,postman,stackover,flow,sublime&theme=dark" /></code>
+<code><img height="60" src="https://skillicons.dev/icons?i=vscode,bitbucket,codepen,discord,docker,figma,git,github,postman,sublime&theme=dark" /></code>
 
 ---
 **Social Medias:**
