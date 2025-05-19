@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<strong>I'm  Rival Akmal</strong> - Fullstack Wrbsite engineers, Builiding beautiful websites with code and creativity.💥
+<strong>I'm  Rival Akmal</strong> - Fullstack Website engineers, Builiding beautiful websites with code and creativity.💥
 
 **My Currect Tech Stacks:**
 
